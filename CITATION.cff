@@ -1,0 +1,42 @@
+cff-version: 1.0.1
+message: Please cite this software using metadata.
+title: Spaceships Defense
+authors:
+ - family-names: Paes Ferreira
+   given-names: Bernard
+ - family-names: Pato Magalhães
+   given-names: Henrique
+ - family-names: de Castro Markiewicz
+   given-names: João Paulo
+ - family-names: Brígida Rezende Souza
+   given-names: Lara
+ - family-names: Moreira Sorrentino
+   given-names: Matheus
+ - family-names: Cabral de Souza Oliveira
+   given-names: Victor
+ - name-suffix: Professor
+   affiliation: PUC Minas
+   family-names: Martins Mol
+   given-names: Artur
+ - name-suffix: Professor
+   affiliation: PUC Minas
+   family-names: Neri Nobre
+   given-names: Cristiane
+ - name-suffix: Professor
+   affiliation: PUC Minas
+   family-names: Ribeiro da Mota
+   given-names: Rosilane
+
+keywords:
+  - Spaceships
+  - Tower defense
+  - Espaço
+  - Unity
+  - Robos
+  - Grafos
+  - IA
+
+repository-code: https://github.com/WKO8/ti-4-pmg-cc-m-20241-spaceships-defense
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-06-21
